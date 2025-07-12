@@ -26,6 +26,7 @@ A clean and interactive **To-Do List** web application that allows users to mana
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Bootstrap**
 - **[Toastr.js](https://codeseven.github.io/toastr/)** – for toast notifications  
 - **[SweetAlert](https://sweetalert.js.org/)** – for confirmation dialogs  
 - **Real API** – for data persistence and task management
